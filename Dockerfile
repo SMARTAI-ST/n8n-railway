@@ -1,4 +1,4 @@
-FROM n8nio/n8n:1.99.1
+FROM n8nio/n8n:1.100.1
 
 ENV NODE_ENV=production
 ENV TZ=UTC
